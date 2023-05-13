@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes &amp; New Features</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230513T231822Z" creationid="kreuk_a" creationdate="20230513T231822Z">
+        <seg>Изменния и новые особенности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes &amp; New Features | AutoHotkey</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T231556Z" creationid="kreuk_a" creationdate="20230513T230559Z">
@@ -79,10 +87,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes and new features introduced by the current branch of AutoHotkey development (a.k.a. AutoHotkey_L) are listed below.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230513T231849Z" creationid="kreuk_a" creationdate="20230513T231849Z">
+        <seg>Изменения и новые особенности ввденеы текуущей веткой разработки AutoHotkey (a.k.a AutoHotkey_L) перечислеенны ниже</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes and new features introduced by the current branch of AutoHotkey development (a.k.a. AutoHotkey_L).</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T231739Z" creationid="kreuk_a" creationdate="20230513T231430Z">
         <seg>Изменения и новые особенности ввденеы текуущей веткой разработки AutoHotkey (a.k.a AutoHotkey_L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For older changes, see &lt;a0&gt;Archived Changes&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232252Z" creationid="kreuk_a" creationdate="20230513T232252Z">
+        <seg>Смотри  предыдущие измениня в &lt;a0&gt;Архиве&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
