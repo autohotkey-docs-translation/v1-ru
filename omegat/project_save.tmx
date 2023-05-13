@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"en":true,</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Ragnar-F" changedate="20230513T070854Z" creationid="Ragnar-F" creationdate="20230513T070643Z">
+        <seg>"en":"ru",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/v1/docs/":true,</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140645Z" creationid="Ragnar-F" creationdate="20230306T140556Z">
