@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Debugging Clients | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063020Z" creationid="kreuk_a" creationdate="20230514T063020Z">
+        <seg>Средства отладки | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixed a performance issue with command args exceeding 4*1024*1024 chars.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232730Z" creationid="kreuk_a" creationdate="20230513T232730Z">
