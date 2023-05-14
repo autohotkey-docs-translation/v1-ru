@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;SciTE4AutoHotkey&lt;/a0&gt; is a free, &lt;a1&gt;SciTE&lt;/a1&gt;-based AutoHotkey script editor.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121616Z" creationid="kreuk_a" creationdate="20230514T121616Z">
+        <seg>&lt;a0&gt;SciTE4AutoHotkey&lt;/a0&gt; это бесплатный, основанный на &lt;a1&gt;SciTE&lt;/a1&gt; редактор скриптов AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional debugging features are supported via &lt;a0&gt;DBGp&lt;/a0&gt;, a common debugger protocol for languages and debugger UI communication.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063824Z" creationid="kreuk_a" creationdate="20230514T063824Z">
@@ -171,6 +179,14 @@
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140457Z" creationid="Ragnar-F" creationdate="20230306T140457Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121354Z" creationid="kreuk_a" creationdate="20230514T121354Z">
+        <seg>Другие</seg>
       </tuv>
     </tu>
     <tu>
