@@ -95,6 +95,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Breakpoints.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123537Z" creationid="kreuk_a" creationdate="20230514T123537Z">
+        <seg>Точки остановки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes &amp; New Features</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T231822Z" creationid="kreuk_a" creationdate="20230513T231822Z">
@@ -139,6 +147,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063020Z" creationid="kreuk_a" creationdate="20230514T063020Z">
         <seg>Средства отладки | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Debugging features include:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123241Z" creationid="kreuk_a" creationdate="20230514T123241Z">
+        <seg>Функции отладки включают:</seg>
       </tuv>
     </tu>
     <tu>
