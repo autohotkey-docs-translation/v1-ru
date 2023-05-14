@@ -167,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to DBGp support, it provides syntax highlighting, calltips/parameter info and auto-complete for AutoHotkey, and other useful editing features and scripting tools.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123154Z" creationid="kreuk_a" creationdate="20230514T123154Z">
+        <seg>В дополнение к поддержке DBGp он имеет подсветку синтаксиса, показывает подсказки и информацию о параметрах, автозавершение в скриптах AutoHotkey, а также множество друих полезных инструментов для создания и изменения скриптов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index.hhk</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T134234Z" creationid="Ragnar-F" creationdate="20230306T134234Z">
