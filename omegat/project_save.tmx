@@ -183,10 +183,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some UIs or "clients" known to be compatible with AutoHotkey are listed on this page:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121220Z" creationid="kreuk_a" creationdate="20230514T121220Z">
+        <seg>На этой странице перечисленны несколько средств отладки, которые совместимы с AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page lists some debugging clients or UIs known to be compatible with AutoHotkey.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063159Z" creationid="kreuk_a" creationdate="20230514T063159Z">
-        <seg>На этой странице перечисленны несколько клиентов отладки котоыре совместимы с AutoHotkey</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T120940Z" creationid="kreuk_a" creationdate="20230514T063159Z">
+        <seg>На этой странице перечисленны несколько клиентов отладки которые совместимы с AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
