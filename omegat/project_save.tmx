@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional debugging features are supported via &lt;a0&gt;DBGp&lt;/a0&gt;, a common debugger protocol for languages and debugger UI communication.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063824Z" creationid="kreuk_a" creationdate="20230514T063824Z">
+        <seg>Дополнительные функции отладки поддерживаются через &lt;a0&gt;DBGp&lt;/a0&gt;, распространенный протокол отладки для сообщения между языком и графическим средством отладки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Help</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T134342Z" creationid="Ragnar-F" creationdate="20230306T134342Z">
@@ -111,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Debugging Clients</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063227Z" creationid="kreuk_a" creationdate="20230514T063227Z">
+        <seg>Средства отладки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Debugging Clients | AutoHotkey</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063020Z" creationid="kreuk_a" creationdate="20230514T063020Z">
@@ -155,6 +171,14 @@
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140457Z" creationid="Ragnar-F" creationdate="20230306T140457Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page lists some debugging clients or UIs known to be compatible with AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063159Z" creationid="kreuk_a" creationdate="20230514T063159Z">
+        <seg>На этой странице перечисленны несколько клиентов отладки котоыре совместимы с AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
