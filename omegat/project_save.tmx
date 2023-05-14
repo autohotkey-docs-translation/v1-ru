@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a1&gt;Interactive Debugging&lt;/a1&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T120851Z" creationid="kreuk_a" creationdate="20230514T120851Z">
+        <seg>Подробнее в разделе &lt;a1&gt;Интерактивная отладка&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page lists some debugging clients or UIs known to be compatible with AutoHotkey.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063159Z" creationid="kreuk_a" creationdate="20230514T063159Z">
