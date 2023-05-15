@@ -79,10 +79,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;This directive was removed.&lt;/s1&gt; AutoIt scripts are no longer supported.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081401Z" creationid="kreuk_a" creationdate="20230515T081401Z">
+        <seg>&lt;s1&gt;Данная инструкция удалена.&lt;/s1&gt; Скрипты AutoIt больше не поддерживаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional debugging features are supported via &lt;a0&gt;DBGp&lt;/a0&gt;, a common debugger protocol for languages and debugger UI communication.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063824Z" creationid="kreuk_a" creationdate="20230514T063824Z">
         <seg>Дополнительные функции отладки поддерживаются через &lt;a0&gt;DBGp&lt;/a0&gt;, распространенный протокол отладки для сообщения между языком и графическим средством отладки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows a comment to appear on the same line as a command.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081456Z" creationid="kreuk_a" creationdate="20230515T081456Z">
+        <seg>Разрешает помещать комментарии на на строку на которой находится команда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only for AutoIt v2 (.aut) scripts:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081429Z" creationid="kreuk_a" creationdate="20230515T081429Z">
+        <seg>Только для скриптов AutoIt v2(.aut)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Others</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121354Z" creationid="kreuk_a" creationdate="20230514T121354Z">
@@ -259,6 +283,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121220Z" creationid="kreuk_a" creationdate="20230514T121220Z">
         <seg>На этой странице перечисленны несколько средств отладки, которые совместимы с AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifying this directive at the &lt;s0&gt;top&lt;/s0&gt; of any AutoIt v2 (.aut) script will enable the use of same-line comments, which are normally disabled for compatibility reasons.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081849Z" creationid="kreuk_a" creationdate="20230515T081849Z">
+        <seg>Объявление этой инструкции в &lt;s0&gt;начале&lt;/s0&gt; любого скрипта AutoIt v2 (.aut) активирует возможность писать коментарии в той же строке, что обычно отключено из-за проблем совместимости.</seg>
       </tuv>
     </tu>
     <tu>
