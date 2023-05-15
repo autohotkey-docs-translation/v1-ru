@@ -177,8 +177,8 @@
       <tuv lang="en">
         <seg>Hover over variable to show contents.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031358Z" creationid="kreuk_a" creationdate="20230515T031358Z">
-        <seg>Навести на переменную чтобы показать значение.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031538Z" creationid="kreuk_a" creationdate="20230515T031358Z">
+        <seg>Просмотр значения переменной с помощью наведения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -207,10 +207,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inspect or edit variable contents.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031646Z" creationid="kreuk_a" creationdate="20230515T031646Z">
+        <seg>Проверять  и изменять содержимое переменных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List name and contents of variables in local/global scope.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031320Z" creationid="kreuk_a" creationdate="20230515T031320Z">
-        <seg>Перечисление имен и значений локальных/глобальных переменных</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031409Z" creationid="kreuk_a" creationdate="20230515T031320Z">
+        <seg>Перечисление имен и значений локальных/глобальных переменных.</seg>
       </tuv>
     </tu>
     <tu>
