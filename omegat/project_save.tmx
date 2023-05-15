@@ -265,8 +265,8 @@
       <tuv lang="en">
         <seg>The #AllowSameLineComments directive allows a comment to appear on the same line as a command (only for AutoIt v2 scripts).</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081206Z" creationid="kreuk_a" creationdate="20230515T081206Z">
-        <seg>Инструкция #AllowSameLineComments разрешает помещать коментарии на строку на которой находится команда</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081305Z" creationid="kreuk_a" creationdate="20230515T081206Z">
+        <seg>Инструкция #AllowSameLineComments разрешает помещать коментарии на строку на которой находится команда (только для скриптов AutoIt v2)</seg>
       </tuv>
     </tu>
     <tu>
