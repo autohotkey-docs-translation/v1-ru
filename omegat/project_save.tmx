@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not used at the top of the script, same-line comments are not supported above the point where the directive occurs.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082004Z" creationid="kreuk_a" creationdate="20230515T082004Z">
+        <seg>Если расположена не в начале файла, инструкция будет работать только после строки в которой она объявлена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Improved ComObjConnect to allow detecting disconnect via __Delete.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232451Z" creationid="kreuk_a" creationdate="20230513T232451Z">
@@ -235,6 +243,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031727Z" creationid="kreuk_a" creationdate="20230515T031646Z">
         <seg>Проверять  и изменять содержимое переменных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like other directives, #AllowSameLineComments cannot be executed conditionally.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082220Z" creationid="kreuk_a" creationdate="20230515T082220Z">
+        <seg>Как и другие инструкции, #AllowSameLineComments не может быть активированна при условии.</seg>
       </tuv>
     </tu>
     <tu>
