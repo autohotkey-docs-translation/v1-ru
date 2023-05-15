@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; This comment is a same-line comment.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082253Z" creationid="kreuk_a" creationdate="20230515T082253Z">
+        <seg>; Это коментарий в той же строке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SciTE4AutoHotkey&lt;/a0&gt; is a free, &lt;a1&gt;SciTE&lt;/a1&gt;-based AutoHotkey script editor.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T121616Z" creationid="kreuk_a" creationdate="20230514T121616Z">
@@ -179,6 +187,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123241Z" creationid="kreuk_a" creationdate="20230514T123241Z">
         <seg>Функции отладки включают:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082228Z" creationid="kreuk_a" creationdate="20230515T082228Z">
+        <seg>Примеры</seg>
       </tuv>
     </tu>
     <tu>
@@ -323,6 +339,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031959Z" creationid="kreuk_a" creationdate="20230515T031959Z">
         <seg>Расширение &lt;a0&gt;vscode-autohotkey-debug&lt;/a0&gt; позволяет использовать &lt;a1&gt;Visual Studio Code&lt;/a1&gt; в качесте отладчика для AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The extension has support for all basic debugging features as well as some more advanced features, such as breakpoint directives (as comments) and conditional breakpoints.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082517Z" creationid="kreuk_a" creationdate="20230515T082517Z">
+        <seg>Расширение поддерживает все базовые функции отладки также как и несколько расширенных функций, таких как инструкции прерывания (как комментарии) и прерывания по условию.</seg>
       </tuv>
     </tu>
     <tu>
