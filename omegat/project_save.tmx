@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hover over variable to show contents.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031358Z" creationid="kreuk_a" creationdate="20230515T031358Z">
+        <seg>Навести на переменную чтобы показать значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Improved ComObjConnect to allow detecting disconnect via __Delete.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232451Z" creationid="kreuk_a" creationdate="20230513T232451Z">
@@ -195,6 +203,14 @@
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T134234Z" creationid="Ragnar-F" creationdate="20230306T134234Z">
         <seg>Index.hhk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List name and contents of variables in local/global scope.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031320Z" creationid="kreuk_a" creationdate="20230515T031320Z">
+        <seg>Перечисление имен и значений локальных/глобальных переменных</seg>
       </tuv>
     </tu>
     <tu>
@@ -241,8 +257,8 @@
       <tuv lang="en">
         <seg>View the call stack.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T030905Z" creationid="kreuk_a" creationdate="20230515T030905Z">
-        <seg>Просмотр стэка вызовов</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031122Z" creationid="kreuk_a" creationdate="20230515T030905Z">
+        <seg>Просмотр стэка вызовов.</seg>
       </tuv>
     </tu>
     <tu>
