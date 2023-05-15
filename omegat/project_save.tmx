@@ -177,8 +177,8 @@
       <tuv lang="en">
         <seg>Hover over variable to show contents.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031538Z" creationid="kreuk_a" creationdate="20230515T031358Z">
-        <seg>Просмотр значения переменной с помощью наведения.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031733Z" creationid="kreuk_a" creationdate="20230515T031358Z">
+        <seg>Просмотр значения переменной с помощью наведения</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,8 +193,8 @@
       <tuv lang="en">
         <seg>In addition to DBGp support, it provides syntax highlighting, calltips/parameter info and auto-complete for AutoHotkey, and other useful editing features and scripting tools.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123154Z" creationid="kreuk_a" creationdate="20230514T123154Z">
-        <seg>В дополнение к поддержке DBGp он имеет подсветку синтаксиса, показывает подсказки и информацию о параметрах, автозавершение в скриптах AutoHotkey, а также множество друих полезных инструментов для создания и изменения скриптов</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031749Z" creationid="kreuk_a" creationdate="20230514T123154Z">
+        <seg>В дополнение к поддержке DBGp он имеет подсветку синтаксиса, показывает подсказки и информацию о параметрах, автозавершение в скриптах AutoHotkey, а также множество друих полезных инструментов для создания и изменения скриптов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,16 +209,16 @@
       <tuv lang="en">
         <seg>Inspect or edit variable contents.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031646Z" creationid="kreuk_a" creationdate="20230515T031646Z">
-        <seg>Проверять  и изменять содержимое переменных.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031727Z" creationid="kreuk_a" creationdate="20230515T031646Z">
+        <seg>Проверять  и изменять содержимое переменных</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>List name and contents of variables in local/global scope.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031409Z" creationid="kreuk_a" creationdate="20230515T031320Z">
-        <seg>Перечисление имен и значений локальных/глобальных переменных.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031736Z" creationid="kreuk_a" creationdate="20230515T031320Z">
+        <seg>Перечисление имен и значений локальных/глобальных переменных</seg>
       </tuv>
     </tu>
     <tu>
@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;a0&gt;vscode-autohotkey-debug&lt;/a0&gt; extension enables &lt;a1&gt;Visual Studio Code&lt;/a1&gt; to act as a debugger client for AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031959Z" creationid="kreuk_a" creationdate="20230515T031959Z">
+        <seg>Расширение &lt;a0&gt;vscode-autohotkey-debug&lt;/a0&gt; позволяет использовать &lt;a1&gt;Visual Studio Code&lt;/a1&gt; в качесте отладчика для AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page lists some debugging clients or UIs known to be compatible with AutoHotkey.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T120940Z" creationid="kreuk_a" creationdate="20230514T063159Z">
@@ -263,10 +271,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View structure of objects.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031708Z" creationid="kreuk_a" creationdate="20230515T031708Z">
+        <seg>Просматривать структуру объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View the call stack.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031122Z" creationid="kreuk_a" creationdate="20230515T030905Z">
-        <seg>Просмотр стэка вызовов.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031742Z" creationid="kreuk_a" creationdate="20230515T030905Z">
+        <seg>Просмотр стэка вызовов</seg>
       </tuv>
     </tu>
     <tu>
