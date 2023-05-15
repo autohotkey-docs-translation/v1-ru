@@ -239,6 +239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View the call stack.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T030905Z" creationid="kreuk_a" creationdate="20230515T030905Z">
+        <seg>Просмотр стэка вызовов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140718Z" creationid="Ragnar-F" creationdate="20230306T140718Z">
