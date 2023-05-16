@@ -89,8 +89,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;XDebugClient&lt;/a0&gt; is a simple open-source front-end DBGp client based on the &lt;b1&gt;.NET Framework 2.0&lt;/b1&gt;.</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230515T083839Z" creationid="kreuk_a" creationdate="20230515T083839Z">
-        <seg>&lt;a0&gt;XDebugClient&lt;/a0&gt; это простой открытый  &lt;b1&gt;.NET Framework 2.0&lt;/b1&gt;.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230516T130113Z" creationid="kreuk_a" creationdate="20230515T083839Z">
+        <seg>&lt;a0&gt;XDebugClient&lt;/a0&gt; это простой DBGp клиент с внешним интерфейсом и открытым исходным кодом основанный на &lt;b1&gt;.NET Framework 2.0&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
