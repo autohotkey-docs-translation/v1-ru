@@ -383,6 +383,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XDebugClient was originally designed for PHP with Xdebug, but a custom build compatible with AutoHotkey is available below.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230516T130635Z" creationid="kreuk_a" creationdate="20230516T130635Z">
+        <seg>XDebugClient изначально был разработан Xdebug для PHP, но существует сборка для AutoHotkey доступная по ссылкам ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140718Z" creationid="Ragnar-F" creationdate="20230306T140718Z">
