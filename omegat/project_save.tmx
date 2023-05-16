@@ -103,6 +103,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added AutoHotkey syntax highlighting.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230516T131256Z" creationid="kreuk_a" creationdate="20230516T131256Z">
+        <seg>Добавлены подсветка синтаксиса AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional debugging features are supported via &lt;a0&gt;DBGp&lt;/a0&gt;, a common debugger protocol for languages and debugger UI communication.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063824Z" creationid="kreuk_a" creationdate="20230514T063824Z">
