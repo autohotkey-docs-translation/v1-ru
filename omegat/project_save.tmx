@@ -151,6 +151,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically listen for a connection from the debugger engine, rather than waiting for the user to click &lt;e0&gt;Start Listening&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T002440Z" creationid="kreuk_a" creationdate="20230521T002440Z">
+        <seg>Автоматическое подключение к отлдачику, вместо ожидания нажатия кнопки &lt;e0&gt;Подключиться&lt;/e0&gt; от пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breakpoints.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T123537Z" creationid="kreuk_a" creationdate="20230514T123537Z">
