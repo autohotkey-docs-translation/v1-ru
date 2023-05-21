@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose Run from the Debug menu, or press &lt;k0&gt;F5&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003604Z" creationid="kreuk_a" creationdate="20230521T003604Z">
+        <seg>Выберите Запускк из меню отладки или нажмите &lt;k0&gt;F5&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the left margin to set at least one breakpoint.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003529Z" creationid="kreuk_a" creationdate="20230521T003529Z">
@@ -251,6 +259,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082228Z" creationid="kreuk_a" creationdate="20230515T082228Z">
         <seg>Примеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Features:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003803Z" creationid="kreuk_a" creationdate="20230521T003803Z">
+        <seg>Функции:</seg>
       </tuv>
     </tu>
     <tu>
@@ -459,6 +475,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031742Z" creationid="kreuk_a" creationdate="20230515T030905Z">
         <seg>Просмотр стэка вызовов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When execution hits a breakpoint, use the Debug menu or shortcut keys to step through or resume the script.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003745Z" creationid="kreuk_a" creationdate="20230521T003745Z">
+        <seg>Когда выполнение дойдет до точки прерывания, использйте меню отладки или горячие клавиши чтобы перешагнуть или продолжить скрипт.</seg>
       </tuv>
     </tu>
     <tu>
