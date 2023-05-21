@@ -335,6 +335,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inspect variables - select a variable name, right-click, Inspect.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012234Z" creationid="kreuk_a" creationdate="20230521T012234Z">
+        <seg>Просмотр переменных - выбрать имя переменной, правая кнопка мыши, просмотр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012300Z" creationid="kreuk_a" creationdate="20230521T012300Z">
+        <seg>Проблема.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch AutoHotkey /Debug.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003417Z" creationid="kreuk_a" creationdate="20230521T003417Z">
@@ -451,6 +467,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082517Z" creationid="kreuk_a" creationdate="20230515T082517Z">
         <seg>Расширение поддерживает все базовые функции отладки также как и несколько расширенных функций, таких как инструкции прерывания (как комментарии) и прерывания по условию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user interface does not respond to user input while the script is running.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012336Z" creationid="kreuk_a" creationdate="20230521T012336Z">
+        <seg>Интерфейс не реагирует на действия пользователя во время выполнения скрипта.</seg>
       </tuv>
     </tu>
     <tu>
