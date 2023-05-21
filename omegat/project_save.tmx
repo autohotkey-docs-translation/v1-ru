@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Truncate property values at the first null-character, since AutoHotkey currently returns the entire variable contents and XDebugClient has no suitable interface for displaying binary content.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003209Z" creationid="kreuk_a" creationdate="20230521T003209Z">
+        <seg>Обрезание значений свойств с первого нулевого символа, поскольку сейчас AutoHotkey возвращает полностью содержимое переменной и XDebugClient не имеет подходящего интерфейса для отображения бинарных значений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View structure of objects.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031708Z" creationid="kreuk_a" creationdate="20230515T031708Z">
