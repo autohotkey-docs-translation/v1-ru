@@ -95,6 +95,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt;Download:&lt;/b0&gt; &lt;a1&gt;Binary&lt;/a1&gt;; &lt;a2&gt;Source Code&lt;/a2&gt; (also see &lt;a3&gt;SharpDevelop&lt;/a3&gt;, &lt;a4&gt;Dockpanel Suite&lt;/a4&gt; and &lt;a5&gt;Advanced TreeView&lt;/a5&gt;.)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003339Z" creationid="kreuk_a" creationdate="20230521T003339Z">
+        <seg>&lt;b0&gt;Загрузить:&lt;/b0&gt; &lt;a1&gt;Бинарный файл&lt;/a1&gt;; &lt;a2&gt;Исходный код&lt;/a2&gt; (также смотри &lt;a3&gt;SharpDevelop&lt;/a3&gt;, &lt;a4&gt;Dockpanel Suite&lt;/a4&gt; и &lt;a5&gt;Advanced TreeView&lt;/a5&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;This directive was removed.&lt;/s1&gt; AutoIt scripts are no longer supported.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081401Z" creationid="kreuk_a" creationdate="20230515T081401Z">
@@ -207,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the left margin to set at least one breakpoint.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003529Z" creationid="kreuk_a" creationdate="20230521T003529Z">
+        <seg>Нажмите на левое поле, чтобы назначить точку прерывания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Debugging Clients</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063227Z" creationid="kreuk_a" creationdate="20230514T063227Z">
@@ -299,6 +315,22 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031727Z" creationid="kreuk_a" creationdate="20230515T031646Z">
         <seg>Проверять  и изменять содержимое переменных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch AutoHotkey /Debug.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003417Z" creationid="kreuk_a" creationdate="20230521T003417Z">
+        <seg>Запустить AutoHotkey /Отладка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch XDebugClient.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003402Z" creationid="kreuk_a" creationdate="20230521T003402Z">
+        <seg>Запустить XDebugClient.</seg>
       </tuv>
     </tu>
     <tu>
@@ -407,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003354Z" creationid="kreuk_a" creationdate="20230521T003354Z">
+        <seg>Использование:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View structure of objects.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031708Z" creationid="kreuk_a" creationdate="20230515T031708Z">
@@ -419,6 +459,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031742Z" creationid="kreuk_a" creationdate="20230515T030905Z">
         <seg>Просмотр стэка вызовов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XDebugClient should automatically open the script file.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003445Z" creationid="kreuk_a" creationdate="20230521T003445Z">
+        <seg>XDebugClient должен автоматически открыть файл.</seg>
       </tuv>
     </tu>
     <tu>
