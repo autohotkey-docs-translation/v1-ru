@@ -345,8 +345,8 @@
       <tuv lang="en">
         <seg>Issues:</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012300Z" creationid="kreuk_a" creationdate="20230521T012300Z">
-        <seg>Проблема.</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012427Z" creationid="kreuk_a" creationdate="20230521T012300Z">
+        <seg>Проблемы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,6 +387,14 @@
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140457Z" creationid="Ragnar-F" creationdate="20230306T140457Z">
         <seg>NUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No mechanisms are provided to list variables or set their values.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012613Z" creationid="kreuk_a" creationdate="20230521T012422Z">
+        <seg>Нет механизма для составления списка переменных или задания значений.</seg>
       </tuv>
     </tu>
     <tu>
