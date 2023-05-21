@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; File Mapping must be configured.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230521T013015Z" creationid="kreuk_a" creationdate="20230521T013015Z">
+        <seg>&lt;b0&gt;Заметка:&lt;/b0&gt; сопоставление файлов должно быть настроенно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;This directive was removed.&lt;/s1&gt; AutoIt scripts are no longer supported.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081401Z" creationid="kreuk_a" creationdate="20230515T081401Z">
