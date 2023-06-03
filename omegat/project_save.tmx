@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Color theme:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092230Z" creationid="kreuk_a" creationdate="20230603T092230Z">
+        <seg>Тема:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure the DBGp plugin via &lt;i0&gt;Plugins&lt;/i0&gt;, &lt;i1&gt;DBGp&lt;/i1&gt;, &lt;i2&gt;Config...&lt;/i2&gt;</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012940Z" creationid="kreuk_a" creationdate="20230521T012940Z">
@@ -275,6 +283,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091937Z" creationid="kreuk_a" creationdate="20230603T091937Z">
         <seg>Размер шрифта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dark</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092244Z" creationid="kreuk_a" creationdate="20230603T092244Z">
+        <seg>Темная</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,6 +355,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091617Z" creationid="kreuk_a" creationdate="20230603T091617Z">
         <seg>Настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hidden</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092204Z" creationid="kreuk_a" creationdate="20230603T092204Z">
+        <seg>Скрыто</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Light (default)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092240Z" creationid="kreuk_a" creationdate="20230603T092240Z">
+        <seg>Светная (стандартная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Like other directives, #AllowSameLineComments cannot be executed conditionally.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082220Z" creationid="kreuk_a" creationdate="20230515T082220Z">
@@ -519,10 +551,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quick reference visibility:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092357Z" creationid="kreuk_a" creationdate="20230603T092357Z">
+        <seg>Видимость краткого справочника:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run, Step Over/Into/Out.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012156Z" creationid="kreuk_a" creationdate="20230521T012156Z">
         <seg>Запустить, Шаг Через/В/Из.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092140Z" creationid="kreuk_a" creationdate="20230603T092140Z">
+        <seg>Поиск</seg>
       </tuv>
     </tu>
     <tu>
@@ -547,6 +595,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092033Z" creationid="kreuk_a" creationdate="20230603T092033Z">
         <seg>Выбранная вкладка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sidebar visibility:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092159Z" creationid="kreuk_a" creationdate="20230603T092159Z">
+        <seg>Видимость боковой панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -655,6 +711,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncollapsed (default)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092459Z" creationid="kreuk_a" creationdate="20230603T092459Z">
+        <seg>Развернутый (стандартно)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage:</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003354Z" creationid="kreuk_a" creationdate="20230521T003354Z">
@@ -691,6 +755,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031742Z" creationid="kreuk_a" creationdate="20230515T030905Z">
         <seg>Просмотр стэка вызовов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visible (default)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092217Z" creationid="kreuk_a" creationdate="20230603T092217Z">
+        <seg>Видно (стандартно)</seg>
       </tuv>
     </tu>
     <tu>
