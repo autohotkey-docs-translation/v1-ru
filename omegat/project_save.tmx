@@ -863,14 +863,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>deprecateData = {</seg>
-      </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093344Z" creationid="Ragnar-F" creationdate="20230306T140930Z">
-        <seg> = {</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>docs\index.htm</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T134231Z" creationid="Ragnar-F" creationdate="20230306T134231Z">
