@@ -567,6 +567,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Permission denied.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093100Z" creationid="kreuk_a" creationdate="20230603T093100Z">
+        <seg>Доступ запрещен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quick reference visibility:</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092357Z" creationid="kreuk_a" creationdate="20230603T092357Z">
@@ -575,10 +583,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run the CHM file as administrator or create the config file manually.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093147Z" creationid="kreuk_a" creationdate="20230603T093147Z">
+        <seg>Запустить CHM файл как администратор или создать конфигурационный файл вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run, Step Over/Into/Out.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012156Z" creationid="kreuk_a" creationdate="20230521T012156Z">
         <seg>Запустить, Шаг Через/В/Из.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save settings</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093025Z" creationid="kreuk_a" creationdate="20230603T093025Z">
+        <seg>Сохранить настройки</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,8 +865,8 @@
       <tuv lang="en">
         <seg>deprecateData = {</seg>
       </tuv>
-      <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T140930Z" creationid="Ragnar-F" creationdate="20230306T140930Z">
-        <seg>deprecateData = {</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093344Z" creationid="Ragnar-F" creationdate="20230306T140930Z">
+        <seg> = {</seg>
       </tuv>
     </tu>
     <tu>
