@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help Settings</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091617Z" creationid="kreuk_a" creationdate="20230603T091617Z">
+        <seg>Настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hover over variable to show contents.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031733Z" creationid="kreuk_a" creationdate="20230515T031358Z">
@@ -475,6 +483,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T012156Z" creationid="kreuk_a" creationdate="20230521T012156Z">
         <seg>Запустить, Шаг Через/В/Из.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching...</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091236Z" creationid="kreuk_a" creationdate="20230603T091236Z">
+        <seg>Поиск...</seg>
       </tuv>
     </tu>
     <tu>
