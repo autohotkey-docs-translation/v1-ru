@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093016Z" creationid="kreuk_a" creationdate="20230603T093016Z">
+        <seg>&lt;s0&gt;Заметка:&lt;/s0&gt; если вы нажмете следующую кнопку, ActiveX создаст конфигурационный файл с названием 'chm_config.js' в той же директории что и CHM файл со следующим содержанием:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;This directive was removed.&lt;/s1&gt; AutoIt scripts are no longer supported.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081401Z" creationid="kreuk_a" creationdate="20230515T081401Z">
@@ -251,6 +259,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003529Z" creationid="kreuk_a" creationdate="20230521T003529Z">
         <seg>Нажмите на левое поле, чтобы назначить точку прерывания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapsed</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092506Z" creationid="kreuk_a" creationdate="20230603T092506Z">
+        <seg>Свернуть</seg>
       </tuv>
     </tu>
     <tu>
