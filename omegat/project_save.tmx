@@ -263,6 +263,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content (default)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092100Z" creationid="kreuk_a" creationdate="20230603T092100Z">
+        <seg>Содержимое (стандартно)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content font size:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091937Z" creationid="kreuk_a" creationdate="20230603T091937Z">
+        <seg>Размер шрифта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Debugging Clients</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T063227Z" creationid="kreuk_a" creationdate="20230514T063227Z">
@@ -359,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092136Z" creationid="kreuk_a" creationdate="20230603T092136Z">
+        <seg>Указатель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index.hhk</seg>
       </tuv>
       <tuv lang="ru" changeid="Ragnar-F" changedate="20230306T134234Z" creationid="Ragnar-F" creationdate="20230306T134234Z">
@@ -399,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Large</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091959Z" creationid="kreuk_a" creationdate="20230603T091959Z">
+        <seg>Большой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch AutoHotkey /Debug.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003417Z" creationid="kreuk_a" creationdate="20230521T003417Z">
@@ -435,6 +467,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031736Z" creationid="kreuk_a" creationdate="20230515T031320Z">
         <seg>Перечисление имен и значений локальных/глобальных переменных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium (default)</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092046Z" creationid="kreuk_a" creationdate="20230603T091953Z">
+        <seg>Средний (стандартный)</seg>
       </tuv>
     </tu>
     <tu>
@@ -499,6 +539,22 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T120851Z" creationid="kreuk_a" creationdate="20230514T120851Z">
         <seg>Подробнее в разделе &lt;a1&gt;Интерактивная отладка&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected tab:</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092033Z" creationid="kreuk_a" creationdate="20230603T092033Z">
+        <seg>Выбранная вкладка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Small</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091949Z" creationid="kreuk_a" creationdate="20230603T091949Z">
+        <seg>Маленький</seg>
       </tuv>
     </tu>
     <tu>
@@ -575,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings are permanent; this is, they apply for all current and future visits to this help.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091928Z" creationid="kreuk_a" creationdate="20230603T091928Z">
+        <seg>Эти настройки постоянные, они будут применятся при каждом открытии документации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page lists some debugging clients or UIs known to be compatible with AutoHotkey.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230514T120940Z" creationid="kreuk_a" creationdate="20230514T063159Z">
@@ -595,6 +659,22 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003354Z" creationid="kreuk_a" creationdate="20230521T003354Z">
         <seg>Использование:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very large</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T092005Z" creationid="kreuk_a" creationdate="20230603T092005Z">
+        <seg>Огромный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very small</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091944Z" creationid="kreuk_a" creationdate="20230603T091944Z">
+        <seg>Очень маленький</seg>
       </tuv>
     </tu>
     <tu>
