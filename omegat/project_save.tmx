@@ -511,6 +511,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the settings the help should be started with by default.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230603T091821Z" creationid="kreuk_a" creationdate="20230603T091821Z">
+        <seg>Настройте параметры с которыми документация должная открываться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specifying this directive at the &lt;s0&gt;top&lt;/s0&gt; of any AutoIt v2 (.aut) script will enable the use of same-line comments, which are normally disabled for compatibility reasons.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T081849Z" creationid="kreuk_a" creationdate="20230515T081849Z">
