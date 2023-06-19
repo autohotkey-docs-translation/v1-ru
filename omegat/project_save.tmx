@@ -199,6 +199,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;Statements&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193221Z" creationid="kreuk_a" creationdate="20230619T193221Z">
+        <seg>&lt;i1&gt;Выражения&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Finally&lt;/s0&gt; &lt;i1&gt;Statement&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193213Z" creationid="kreuk_a" creationdate="20230619T193213Z">
+        <seg>&lt;i1&gt;Выражение&lt;/i1&gt; &lt;s0&gt;Finally&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093016Z" creationid="kreuk_a" creationdate="20230603T093016Z">
@@ -415,6 +431,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensures that one or more statements are always executed after a &lt;a0&gt;Try&lt;/a0&gt; statement finishes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193147Z" creationid="kreuk_a" creationdate="20230619T193147Z">
+        <seg>Гарантирует, что одно или более выражений всегад выполнены после завершения выражения &lt;a0&gt;Try&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every use of &lt;e0&gt;finally&lt;/e0&gt; must belong to (be associated with) a &lt;a1&gt;try&lt;/a1&gt; (or &lt;a2&gt;catch&lt;/a2&gt;) statement above it.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193401Z" creationid="kreuk_a" creationdate="20230619T193401Z">
+        <seg>Каждое использование &lt;e0&gt;finally&lt;/e0&gt; должно следовать после выражения &lt;a1&gt;try&lt;/a1&gt; (или catch).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T082228Z" creationid="kreuk_a" creationdate="20230515T082228Z">
@@ -433,8 +465,8 @@
       <tuv lang="en">
         <seg>Finally - Syntax &amp; Usage | AutoHotkey</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192933Z" creationid="kreuk_a" creationdate="20230619T192933Z">
-        <seg>Наконец - синтаксис и использование | AutoHotkey</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193006Z" creationid="kreuk_a" creationdate="20230619T192933Z">
+        <seg>Finally - синтаксис и использование | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -671,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193237Z" creationid="kreuk_a" creationdate="20230619T193237Z">
+        <seg>Примечания</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run the CHM file as administrator or create the config file manually.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230603T093147Z" creationid="kreuk_a" creationdate="20230603T093147Z">
@@ -787,6 +827,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230515T031959Z" creationid="kreuk_a" creationdate="20230515T031959Z">
         <seg>Расширение &lt;a0&gt;vscode-autohotkey-debug&lt;/a0&gt; позволяет использовать &lt;a1&gt;Visual Studio Code&lt;/a1&gt; в качесте отладчика для AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Finally statement ensures that one or more statements are always executed after a Try statement finishes.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T193101Z" creationid="kreuk_a" creationdate="20230619T193101Z">
+        <seg>Выражение Finally гарантирует, что одно или более выражений всегда выполены после завершения выражения Try</seg>
       </tuv>
     </tu>
     <tu>
