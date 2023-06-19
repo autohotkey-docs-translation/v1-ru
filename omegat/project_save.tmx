@@ -47,6 +47,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"lib/IfEqual.htm":"If (expression)",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192700Z" creationid="kreuk_a" creationdate="20230619T192700Z">
+        <seg>"lib/IfEqual.htm":"If (выражение)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lib/SetEnv.htm":"Var := Value",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192740Z" creationid="kreuk_a" creationdate="20230619T192740Z">
+        <seg>"lib/SetEnv.htm":"переменная := значение",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"lib/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230619T191921Z" creationid="kreuk_a" creationdate="20230619T191921Z">
@@ -75,6 +91,22 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192614Z" creationid="kreuk_a" creationdate="20230619T192614Z">
         <seg>"lib/_EscapeChar.htm#DerefChar":"стандартный символ разыменования (процент)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"math functions and operators",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192809Z" creationid="kreuk_a" creationdate="20230619T192809Z">
+        <seg>"математичские функции и операторы",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the ** operator",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192837Z" creationid="kreuk_a" creationdate="20230619T192837Z">
+        <seg>"оператор **",</seg>
       </tuv>
     </tu>
     <tu>
@@ -395,6 +427,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230521T003803Z" creationid="kreuk_a" creationdate="20230521T003803Z">
         <seg>Функции:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally - Syntax &amp; Usage | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192933Z" creationid="kreuk_a" creationdate="20230619T192933Z">
+        <seg>Наконец - синтаксис и использование | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
