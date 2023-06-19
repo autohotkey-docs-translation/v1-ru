@@ -31,6 +31,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"lib/EnvDiv.htm":"Var /= Value",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192627Z" creationid="kreuk_a" creationdate="20230619T192627Z">
+        <seg>"lib/EnvDiv.htm":"переменная /= значение",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lib/EnvMult.htm":"Var *= Value",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192638Z" creationid="kreuk_a" creationdate="20230619T192638Z">
+        <seg>"lib/EnvMult.htm":"переменная *= значение",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"lib/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230619T191921Z" creationid="kreuk_a" creationdate="20230619T191921Z">
@@ -43,6 +59,22 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192358Z" creationid="kreuk_a" creationdate="20230619T192358Z">
         <seg>"lib/_EscapeChar.htm":"стандартный экранирующий символ (ударение)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lib/_EscapeChar.htm#Delimiter":"the default delimiter character (comma)",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192457Z" creationid="kreuk_a" creationdate="20230619T192457Z">
+        <seg>"lib/_EscapeChar.htm#Delimiter":"стандартный разделительный символ (запятая)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lib/_EscapeChar.htm#DerefChar":"the default dereference character (percent)",</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230619T192614Z" creationid="kreuk_a" creationdate="20230619T192614Z">
+        <seg>"lib/_EscapeChar.htm#DerefChar":"стандартный символ разыменования (процент)",</seg>
       </tuv>
     </tu>
     <tu>
