@@ -143,6 +143,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.1.36.01 - December 2, 2022</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230623T040329Z" creationid="kreuk_a" creationdate="20230623T040329Z">
+        <seg>1.1.36.01 - 2 Декабря, 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.1.36.02 - December 7, 2022</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232315Z" creationid="kreuk_a" creationdate="20230513T232315Z">
@@ -483,6 +491,14 @@
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232730Z" creationid="kreuk_a" creationdate="20230513T232730Z">
         <seg>Исправлена проблема производительности при использовании аргументов длиннее 4*1024*1024 символов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed undefined behavior for File.Length/Read() with console buffers.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230623T040317Z" creationid="kreuk_a" creationdate="20230623T040317Z">
+        <seg>Исправлено неопределенное поведени File.Length/Read() с буфером консоли.</seg>
       </tuv>
     </tu>
     <tu>
