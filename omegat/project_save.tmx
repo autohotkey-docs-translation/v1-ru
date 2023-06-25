@@ -143,10 +143,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.1.36.00 - December 1, 2022</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230624T171523Z" creationid="kreuk_a" creationdate="20230624T171523Z">
+        <seg>1.1.36.00 - 1 Декабря 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.1.36.01 - December 2, 2022</seg>
       </tuv>
-      <tuv lang="ru" changeid="kreuk_a" changedate="20230623T040329Z" creationid="kreuk_a" creationdate="20230623T040329Z">
-        <seg>1.1.36.01 - 2 Декабря, 2022</seg>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230624T171510Z" creationid="kreuk_a" creationdate="20230623T040329Z">
+        <seg>1.1.36.01 - 2 Декабря 2022</seg>
       </tuv>
     </tu>
     <tu>
@@ -247,10 +255,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added &lt;a0&gt;VerCompare()&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230624T171529Z" creationid="kreuk_a" creationdate="20230624T171529Z">
+        <seg>Добавленно &lt;a0&gt;VerCompare()&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added AutoHotkey syntax highlighting.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230516T131256Z" creationid="kreuk_a" creationdate="20230516T131256Z">
         <seg>Добавлены подсветка синтаксиса AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Added support for &lt;a0&gt;breakpoint exceptions&lt;/a0&gt; via DBGp.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230624T171637Z" creationid="kreuk_a" creationdate="20230624T171637Z">
+        <seg>Добавленная поддержка &lt;a0&gt; иключений контрольных точек&lt;/a0&gt; via DBGp.</seg>
       </tuv>
     </tu>
     <tu>
