@@ -527,6 +527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixed undefined behaviour for Switch numeric comparisons.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230726T031406Z" creationid="kreuk_a" creationdate="20230726T031406Z">
+        <seg>Исправлено неопределенное поеведение числовых сравнений Switch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For older changes, see &lt;a0&gt;Archived Changes&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230513T232252Z" creationid="kreuk_a" creationdate="20230513T232252Z">
