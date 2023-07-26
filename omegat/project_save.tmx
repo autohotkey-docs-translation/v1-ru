@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes and new features introduced by the v1.1 branch of AutoHotkey development (formerly AutoHotkey_L).</seg>
+      </tuv>
+      <tuv lang="ru" changeid="kreuk_a" changedate="20230726T032520Z" creationid="kreuk_a" creationdate="20230726T032520Z">
+        <seg>Изменения и новые особенности представленны в ветке разработки v1.1 (раньше AutoHotkey_L) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes:</seg>
       </tuv>
       <tuv lang="ru" changeid="kreuk_a" changedate="20230516T130643Z" creationid="kreuk_a" creationdate="20230516T130643Z">
